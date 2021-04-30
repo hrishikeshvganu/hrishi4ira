@@ -2,6 +2,9 @@
 ** Keep lights always on and on low beam like they do in Scandinavian countries. Switch to high beam in evening or night
 ** Always check lights, seatbelt, brakes when you get into the car
  - vision is the most important sense required for driving. Vision is imparied by the following:
+* Trust your vehichle that's well maintained
+** Most crashes (80%) are due to human error-not due to vehicle system malfunction
+** The nut behind the wheel problem
  1. Not having lights at night
  2. Distractions that take your eyes off the roadway- texting, calling, talking with someone in the car, looking at billboards
  - System 1 vs system 2 thinking. System 1 makes you jump to conclusions. Hence you need to rehearse situations and have a troubleshooting map identified beforehand
