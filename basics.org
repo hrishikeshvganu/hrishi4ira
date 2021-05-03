@@ -4,9 +4,8 @@
 ** Headlights not switched on or not working: don't start car without switching on headlights AND confirming they are on. Routine.
 ** Windshield dirty: always clean car yourself so this does not happen 
 ** Splash of dirty water on windshield when passing heavy vehicle: wipers in working condition
-s
-** Medical issues with eyes
-** Light outside too bright
+** Medical issues with eyes: regular eye checks and naturalistic checks on road
+** Light outside too bright: check vision with doctor. Flaps and their proper use
 **  Driving without lights is the worst situation to get in
 ** Keep lights always on and on low beam like they do in Scandinavian countries. Switch to high beam in evening or night
 ** Always check lights, seatbelt, brakes when you get into the car
