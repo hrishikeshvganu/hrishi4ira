@@ -1,9 +1,10 @@
 * Vision is the most important sense used while driving
-** Rain can cause loss of vision
-** An accident that affects your eyes
-** Headlights not switched on or not working
-** Windshield dirty
-** Splash of dirty water on windshield when passing heavy vehicles
+** Rain can cause loss of vision: use of wipers, slow down to 30kph
+** An accident that affects your eyes: passenger can help
+** Headlights not switched on or not working: don't start car without switching on headlights AND confirming they are on. Routine.
+** Windshield dirty: always clean car yourself so this does not happen 
+** Splash of dirty water on windshield when passing heavy vehicle: wipers in working condition
+s
 ** Medical issues with eyes
 ** Light outside too bright
 **  Driving without lights is the worst situation to get in
