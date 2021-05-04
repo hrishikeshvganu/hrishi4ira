@@ -26,6 +26,6 @@
 - Not slowing down in case of danger. Where you need medium grade braking at 4m/s^2. This needs practice
 - Forgetting what to do in case suddenly lights go out-you need to switch on headlights first. In fact before all of that just use the flasher so it will activate both beams
 * Planning mistakes/biases
-  1. *Confirmatory bias* seek out information that will confirm my theory
+  1. *Confirmatory bias* seek out information that will confirm my theory . "Got input that lights did not work even after toggling low->high beam and back. But explained away as terrain is uneven and hence this is happening or that the lights will not work/will not work in this situation and something else needs to be tried out" This prevented me from trying out switching on the headlights using the headlights ON switch. I continued in this fallacy right till I reached home and hence did not take efforts to correct it in any way
   2. *Resistance to change* not willing to change the plan/belief and searching for alternate explanations that justify the original hypothesis/model
-  3. *Simplistic understanding of causality* only one cause for an issue and hence fixing that cause will fix issue. Or wrong causal model. "The stick is at low beam and if I move to high beam it will be ok"
+  3. *Simplistic understanding of causality* only one cause for an issue and hence fixing that cause will fix issue. Or wrong causal model. "The stick is at low beam and if I move to high beam it will be ok". "The terrain is wavy and hence the lights are not taking effect"
