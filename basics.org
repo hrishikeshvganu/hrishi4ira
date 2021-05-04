@@ -25,3 +25,7 @@
 * Personal rookie mistakes
 - Not slowing down in case of danger. Where you need medium grade braking at 4m/s^2. This needs practice
 - Forgetting what to do in case suddenly lights go out-you need to switch on headlights first. In fact before all of that just use the flasher so it will activate both beams
+* Planning mistakes/biases
+  1. *Confirmatory bias* seek out information that will confirm my theory
+  2. *Resistance to change* not willing to change the plan/belief and searching for alternate explanations that justify the original hypothesis/model
+  3. *Simplistic understanding of causality* only one cause for an issue and hence fixing that cause will fix issue. Or wrong causal model. "The stick is at low beam and if I move to high beam it will be ok"
