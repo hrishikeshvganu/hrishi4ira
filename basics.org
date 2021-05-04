@@ -31,6 +31,7 @@
   3. *Simplistic understanding of causality* only one cause for an issue and hence fixing that cause will fix issue. Or wrong causal model. "The stick is at low beam and if I move to high beam it will be ok". "The terrain is wavy and hence the lights are not taking effect"
   4. One mistake that was unpardonable was *not pressing brakes to slow down*. I think I was at 45kph down the slope and then at 30-35kph when I was near the garbage truck. I should have slowed down immediately to 25kph from 45kph since a rear underrun at 45kph can be fatal. It can especially be fatal to passenger side occupants if it's a small overlap-which the situation would have been most likely if I had not "seen" the garbage truck.
 ** TODO This is a case where practice alone works. Theory does not work. I need to try out braking comfortably to get confident and so that it becomes an automated response when there's any danger of front-rear collision. :fc:
+   SCHEDULED: <2021-07-03 Sat>
    :PROPERTIES:
    :FC_CREATED: 2021-05-04T12:00:42Z
    :FC_TYPE:  normal
