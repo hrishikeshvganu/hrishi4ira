@@ -3,7 +3,17 @@
 ** What can cause loss of effective road vision?
    1. Not switching on lights
    2. Lights not functional though switched on
-   3. [ *Surprise* ]Sudden entry into tunnel so not enough time to switch on -surprised.
+   3. [ *Surprise* ]
+      - Sudden weather change
+      - Suddenly lights on road go out (municipal lights)
+      - Sudden entry into tunnel so not enough time to switch on -surprised.
+      - Sudden entry into parking lot
+   4. [ *Obstruction* ]
+      - *Curved* road
+      - *Wavy* road
+      - *Tailgating* vehicle in front very closely
+      - Trees
+      - Sudden tarpaulin or some object flying out of lead vehicle
 ** Rain can cause loss of vision: use of wipers, slow down to 30kph
 ** An accident that affects your eyes: passenger can help
 ** Headlights not switched on or not working: don't start car without switching on headlights AND confirming they are on. Routine.
@@ -22,7 +32,7 @@
 ** Practical experience builds skill
 **  However practicing in safe environment-with a skilled driver is necessary
 ** In addition a good dose of bookish knowledge using Police Manual can help. It can't replace practice however
-* Predicting what will happen based on mental model and comparing with actually what happens-less errors means more skill :mental_model:situational_awareness:
+* Predicting what will happen based on men model and comparing with actually what happens-less errors means more skill :mental_model:situational_awareness:
 * Indications of poor situational awareness
 ** Fixation on a single approach/line of action with blinders and exclusion of all other solutions. Stopping the prediction loop. It's ok if it happens when focus is needed but after the critical phase is over a reappraisal is needed. :constant_appraisal_of_situation:
 * Intimate knowledge about the vehicle switches and in what scenario each switch or lever can be used. You get 2-3 seconds to think and decide on a course of action. Clarity of previous experiences is essential so that you don't form wrong schemas.
