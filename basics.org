@@ -1,4 +1,9 @@
 * Vision is the most important sense used while driving
+
+** What can cause loss of effective road vision?
+   1. Not switching on lights
+   2. Lights not functional though switched on
+   3. [ *Surprise* ]Sudden entry into tunnel so not enough time to switch on -surprised.
 ** Rain can cause loss of vision: use of wipers, slow down to 30kph
 ** An accident that affects your eyes: passenger can help
 ** Headlights not switched on or not working: don't start car without switching on headlights AND confirming they are on. Routine.
