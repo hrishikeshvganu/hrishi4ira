@@ -20,7 +20,7 @@
       - Phone
       - Kids
       - Passenger talking
-      - *Eyes off road*
+      - *Eyes off road* for more than 1 second
 
 ** What causes reduced TTC ?
 ** Rain can cause loss of vision: use of wipers, slow down to 30kph
