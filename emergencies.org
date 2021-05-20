@@ -1,0 +1,28 @@
+* Brakes fail in automatic
+- Shift to neutral?
+- Or shift to D for engine braking ?
+** TODO try inside Godrej
+- Coast down
+
+* Accelerator stuck
+- Use brakes
+
+* Tyre blowout
+- Ease off accel
+- Once speed is 35 kph use light brakes
+- Need to hold steering straight since car will pull to one side
+
+* Lights go out
+- Brake hard but not full stomp
+- Turn on hazards
+- Should have enough light
+** TODO try out in Godrej 
+
+* Bonnet flies up/sudden obstruction
+- *Stomp* on brake else atleast hard brake
+- Open window and navigate
+** TODO try out in open space. Avandoned parking or ground  
+
+* Mud on windshield 
+- Energency wiper operation 
+** TODO try in godrej 
