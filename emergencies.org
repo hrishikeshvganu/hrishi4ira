@@ -1,6 +1,8 @@
 * Brakes fail in automatic
 - Shift to neutral?
 - Or shift to D for engine braking ?
+checked. this is possible. Only need to press safety plunger when D→2→L
+**verified**
 ** TODO try inside Godrej
 - Coast down
 
