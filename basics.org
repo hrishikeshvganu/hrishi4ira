@@ -70,13 +70,15 @@
 | front    |  2.5 |   0 |        0 | 2021-05-04T12:00:42Z |
    :END:
   
-TODO Practice hard braking 
-   
-   
-   
-   
+* TODO Practice hard braking 
+
+1 First practice inside Godrej
+
+2 then practice outside
+
+
 * Most frequent accident types in India:
-1. Rear underrun with truck or bus. This happens a) at night b) when overtaking from left c) pushed by bus or truck towards lane of parked truck on left d) sudden swerve when trying to avoid collision with another vehicle or to save jaywalkers or dogs or animals. Avoid sudden swerving except when own car in danger. Use road cam for rash bikers.
+1. Rear underrun with truck or bus. This happens a) at night when you cant see b) when overtaking from left c) pushed by bus or truck towards lane of parked truck on left d) sudden swerve when trying to avoid collision with another vehicle or to save jaywalkers or dogs or animals. Avoid sudden swerving except when own car in danger. Use road cam for rash bikers.
 2. Frontal collision on undivided roads. Can be mitigated to some extent by going slow on undivided roads and being alert
 3. Collisions with bikes or cars driving on wrong side of road. Be alert and brake
 4. Collisions with rash bikers due to their mistake 
