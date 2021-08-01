@@ -17,8 +17,8 @@
         | Speed | Following time | Following distance |
         |       |                |                    |
         +----------+----------+----------+
-        | 45 kph |3 seconds   |40m. This is 4 buses.   |
-        |        |   |   |
+        | 45 kph | 3 seconds | 40m. This is 4 buses. |
+        | 55kph  | 3 seconds | 50m. This is 4.5 bus lengths                      |
         +----------+----------+----------+
         |          |          |          |
         |          |          |          |
