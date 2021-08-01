@@ -6,3 +6,4 @@
   Complete information about car controls and complete info about the state of the car controls, traffic and weather help you navigate and take right decisions.
 * Driving is not intuitive or instinctive
   Hence, we need to be especially careful in the night since vision is the most important sense for driving and humans can't see in the night.
+* If you can't see till atleast 3 bus lengths you should not drive.
