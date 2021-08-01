@@ -21,7 +21,7 @@
         +----------+----------+-----------------------------+
         | 65kph | 3.5 seconds | 70m. This is 7 bus lengths |
       - How do you maintain these distances in dense traffic?
-**** TODO If a car overtakes you and fills up the gap, you brake lightly to increase the following distance.
+**** TODO If a car overtakes you and fills up the gap, you brake lightly (2.5 m/s2) to increase the following distance.
        - Trees
        - Sudden tarpaulin or some object flying out of lead vehicle
     5. *Smoke* from a diesel truck that's trying to pull itself up a slope. Double whammy here. a)Smoke b)Slow speed.
