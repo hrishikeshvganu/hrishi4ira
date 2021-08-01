@@ -13,9 +13,9 @@
       - *Wavy* road
       - *Tailgating* vehicle in front very closely
         - Revealed hidden vehicle case. I->A-> stopped B. A swerves out of the way and reveals stopped B. If B at < reaction + braking distance then rear ending. Hence following distance should be 3 seconds or more.
-        +----------+----------+----------
+        +----------+----------+-----------------------------+
         | Speed | Following time | Following distance |
-        +----------+----------+----------
+        +----------+----------+-----------------------------+
         | 45 kph | 3 seconds | 40m. This is 4 buses.        |
         | 55kph  | 3 seconds | 50m. This is 4.5 bus lengths |
         +----------+----------+----------+
