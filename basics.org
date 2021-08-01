@@ -17,6 +17,7 @@
    5. *Smoke* from a diesel truck that's trying to pull itself up a slope. Double whammy here. a)Smoke b)Slow speed.
 ****      1. Last week of July 2021 I saw this happen. 407 was pulling some machine. I started overtaking from right and realised that it was emitting dark smoke uptil 800mm height. I should have braked and slowed immediately. I did not. I continued running parallel to the 407 and eventually overtook it. Speed must be 40-45kph. :mistake:
 **** Principle: never drive such that you can't brake and stop within a distance to which you can see. This means 3 seconds at 45kph which is length of two and a half large buses. :principle:
+**** TODO practice braking at 5m/s2 which is medium braking. While doing medium braking you should not feel shy/butterflies in stomach.
   1. *Glare* from oncoming vehicles
   2. Falling asleep
   3. Distracted by :
